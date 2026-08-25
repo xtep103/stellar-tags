@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/routing-refund-mechanism",
+    "feat/soft-deletes",
+    "fix-custom-integration",
+    "fix-deploy-timeout-and-node",
+    "fix/prisma-runtime-deps",
+    "fix/registration-lookup-endpoint",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/routing-refund-mechanism": "main",
+    "feat/soft-deletes": "main",
+    "fix-custom-integration": "main",
+    "fix-deploy-timeout-and-node": "main",
+    "fix/prisma-runtime-deps": "main",
+    "fix/registration-lookup-endpoint": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/routing-refund-mechanism",
+    "feat/soft-deletes",
+    "fix-custom-integration",
+    "fix-deploy-timeout-and-node",
+    "fix/prisma-runtime-deps",
+    "fix/registration-lookup-endpoint",
+    "origin"
+  ]
+}
