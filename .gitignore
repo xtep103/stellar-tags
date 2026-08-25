@@ -16,7 +16,6 @@ dist-ssr
 *.local
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -32,3 +31,7 @@ stellar-payment-platform@1.0.0
 
 # Soroban test snapshots
 test_snapshots/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
